@@ -14,7 +14,7 @@ module.exports = {
   userPermissions: [],
   botPermissions: ["EMBED_LINKS"],
   category: "Information",
-  cooldown: 5,
+  cooldown: 2,
   inVoiceChannel: false,
   inSameVoiceChannel: false,
   Player: false,

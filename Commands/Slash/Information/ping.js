@@ -8,7 +8,7 @@ module.exports = {
   userPermissions: ["SEND_MESSAGES"],
   botPermissions: ["EMBED_LINKS"],
   category: "Information",
-  cooldown: 5,
+  cooldown: 1,
   type: "CHAT_INPUT",
   inVoiceChannel: false,
   inSameVoiceChannel: false,
